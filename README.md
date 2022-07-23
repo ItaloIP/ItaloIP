@@ -1,3 +1,6 @@
+😊 Cursando Ensino Médio
+🤓 NERD
+<3 Ti
 <div align-items='center'>
   <a href="https://github.com/italoip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoip&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
